@@ -1,5 +1,7 @@
 ### olá! eu sou o marcos damasceno 👋
 
+> a technology enthusiast in search of knowledge , new experiences and a gamer in his spare time
+
  <div>
   <a href="https://github.com/marcosDmc">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
