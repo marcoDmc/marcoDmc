@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/marcosDmc">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosDmc&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosDmc&layout=compact&langs_count=7&theme=buefy"/>
 </div>
  
 <div>
@@ -31,7 +31,6 @@
 
  
   ![Snake animation](https://github.com/marcosDmc/marcosDmc/blob/output/github-contribution-grid-snake.svg)
- 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosDmc&theme=codeSTACKr&show_icons=true)
+
  
 </div>
