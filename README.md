@@ -32,6 +32,6 @@
  
   ![Snake animation](https://github.com/marcosDmc/marcosDmc/blob/output/github-contribution-grid-snake.svg)
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosDmc&theme=codeSTACKr&show_icons=true)
  
 </div>
