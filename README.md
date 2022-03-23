@@ -1,4 +1,4 @@
-### olá! eu sou o marcos damasceno 👋
+### hi! i am marcos damasceno 👋
 
 > a technology enthusiast in search of knowledge , new experiences and a gamer in his spare time
 
