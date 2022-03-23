@@ -1,4 +1,4 @@
-### hi! i am marcos damasceno 👋
+### hello, welcome to my profile 😎🤙
 
 > a technology enthusiast in search of knowledge , new experiences and a gamer in his spare time
 
