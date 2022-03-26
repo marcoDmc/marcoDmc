@@ -1,32 +1,34 @@
 ### hello, welcome to my profile 😎🤙
 
-> a technology enthusiast in search of knowledge , new experiences and a gamer in his spare time
+> a technology enthusiast in search of knowledge ,<br/>   new experiences and a gamer in his spare time
 
  <div>
   <a href="https://github.com/marcosDmc">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosDmc&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img src="https://cdn.dribbble.com/users/31566/screenshots/2138452/media/acb9a799cec2f5acd31f3d45b65b6169.gif" />
 </div>
  
 <div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-   <img  align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+                                                                                                       
+                                                                                                      
  
  
 </div>
 
  ##
-  
-  
+
+
 <div> 
 
-  <a href="https://instagram.com/_m_code_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "https://twitter.com/_m_code_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href = "mailto:marcodamasceno07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:marcodamasceno07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcos-damasceno-196b68175" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
