@@ -4,7 +4,7 @@
 
  <div>
   <a href="https://github.com/marcosDmc">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img src="https://cdn.dribbble.com/users/31566/screenshots/2138452/media/acb9a799cec2f5acd31f3d45b65b6169.gif" />
 </div>
  
