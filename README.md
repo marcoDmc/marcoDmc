@@ -11,7 +11,7 @@
  <div>
   <a href="https://github.com/marcosDmc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" width="600em"/>
+
 </div>
  
 <div>
