@@ -1,20 +1,31 @@
-# hello, welcome to my profile 😎🤙
 
 
- ## __about me__ <br/> 
-  -  a technology enthusiast 👨‍💻  
- - addicted to learning 📕 
-  - gamer in spare time 🕹️
 
 
+
+  #  hello, welcome to my profile 😎🤙
 
  <div>
-  <a href="https://github.com/marcosDmc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-
-
-</div>
  
+
+  ### about me
+- a technology enthusiast 👨‍💻
+- addicted to learning 📕
+- gamer in spare time 🕹️
+
+
+ <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611eab0fcba5037f2d011d928c2886a671329a4d210&rid=giphy.gif&ct=g" />
+    
+  
+  
+  <div  width="200em">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+ 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosDmc&hide=html&layout=compact&theme=gotham&include_all_commits=true&count_private=true"/>
+
+  </div>
+</div>
+
 <div>
   <div style="display: inline_block"><br>
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
