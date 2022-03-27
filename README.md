@@ -1,11 +1,17 @@
-### hello, welcome to my profile 😎🤙
+# hello, welcome to my profile 😎🤙
 
-> a technology enthusiast in search of knowledge ,<br/>   new experiences and a gamer in his spare time
+
+ ## __about me__ <br/> 
+  -  a technology enthusiast 👨‍💻  
+ - addicted to learning 📕 
+  - gamer in spare time 🕹️
+
+
 
  <div>
   <a href="https://github.com/marcosDmc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img src="https://cdn.dribbble.com/users/31566/screenshots/2138452/media/acb9a799cec2f5acd31f3d45b65b6169.gif" />
+  <img src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" width="600em"/>
 </div>
  
 <div>
