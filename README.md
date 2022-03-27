@@ -28,7 +28,7 @@
 
 <br/>
 <p align="left">
-  ⚙ frameworks: 
+  ⚙ frameworks and preprocessors: 
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
