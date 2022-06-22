@@ -72,8 +72,8 @@
 
 
 <div>
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosDmc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosDmc&hide=html&layout=compact&theme=gotham&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcoDmc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoDmc&hide=html&layout=compact&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
 
 <div> 
