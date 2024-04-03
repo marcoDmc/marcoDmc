@@ -8,28 +8,35 @@ Bem vindo(a) ao meu perfil.
 ```js
 class Developer {
   constructor() {
-    this.#set();
+    this.props = {
+      name: "",
+      acknowledgements: "",
+      skills: {
+        languages: [],
+        frameworks: [],
+        primarySkillset: [],
+      },
+    };
+    this.set();
   }
-  #props = {
-    name: "",
-    acknowledgements: "",
-    skills: {
-      languages: [],
-      frameworks: [],
-      primarySkillset: [],
-    },
-  };
 
-  get() {
-    return { props: this.#props };
+  getProps() {
+    return { props: this.props };
   }
-  #set() {
-    this.#props.name = "Marco Damasceno";
-    this.#props.acknowledgements = "Developer Web";
-    this.#props.skills.languages = ["C#","Javascript"];
-    this.#props.skills.frameworks = ["Angular", "React", "Next", "Vue"];
-    this.#props.skills.primarySkillset = [
-      "Comunicação,Resolução de problemas,Adaptabilidade,Proatividade,Foco,Empatia,Criatividade",
+
+  set() {
+    this.props.name = "Marco Damasceno";
+    this.props.acknowledgements = "Developer Web";
+    this.props.skills.languages = ["C#", "Javascript"];
+    this.props.skills.frameworks = ["Angular", "React", "Next", "Vue"];
+    this.props.skills.primarySkillset = [
+      "Comunicação",
+      "Resolução de problemas",
+      "Adaptabilidade",
+      "Proatividade",
+      "Foco",
+      "Empatia",
+      "Criatividade",
     ];
   }
 }
@@ -37,14 +44,13 @@ class Developer {
 class Person extends Developer {
   constructor() {
     super();
-
-    const attributes = this.get().props;
-
-    return attributes;
+    return this.getProps().props;
   }
 }
 
 const marco = new Person();
+console.log(marco);
+
 ```
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" />
@@ -56,8 +62,8 @@ const marco = new Person();
 
 ## Status
 
-<a href="https://github.com/encodedbrain">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=encodedbrain&show_icons=true&theme=dracula&line_height=27" alt="marco damasceno github stats"/>
+<a href="https://github.com/marcoDmc">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoDmc&show_icons=true&theme=dracula&line_height=27" alt="marco damasceno github stats"/>
 </a>
 
 [linkedin]: https://www.linkedin.com/in/marcodmc/
