@@ -4,12 +4,14 @@
 
 <br clear="both">
 
-<h2 align="center">Um desenvolvedor em ascensão atualmente cursando ADS pela Uninter e apaixonado por criar aplicações acessíveis e funcionais.</h2>
+<h4 align="center">Um desenvolvedor em ascensão atualmente cursando ADS pela Uninter e apaixonado por criar aplicações acessíveis e funcionais.</h4>
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
 
-###
 
 <div align="center">
-  <img height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -22,7 +24,7 @@
 
 <br clear="both">
 
-<h3 align="center">possuo familiaridade nas seguintes tecnologias</h3>
+<p align="center">possuo familiaridade nas seguintes tecnologias</p>
 
 ###
 
@@ -32,7 +34,7 @@
 
 ###
 
-<h4 align="center">mídias sociais</h4>
+<p align="center">mídias sociais</p>
 
 ###
 
