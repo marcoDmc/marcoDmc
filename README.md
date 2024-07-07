@@ -4,12 +4,12 @@
 
 <br clear="both">
 
-<h6 align="center">Um desenvolvedor em ascensão atualmente cursando ADS pela Uninter e apaixonado por criar aplicações acessíveis e funcionais.</h6>
+<h2 align="center">Um desenvolvedor em ascensão atualmente cursando ADS pela Uninter e apaixonado por criar aplicações acessíveis e funcionais.</h2>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<h4 align="center">possuo familiaridade nas seguintes tecnologias</h4>
+<h3 align="center">possuo familiaridade nas seguintes tecnologias</h3>
 
 ###
 
