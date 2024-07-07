@@ -1,84 +1,65 @@
-# Olá devs 👋
+<h1 align="center">Welcome</h1>
 
-Bem vindo(a) ao meu perfil.
+###
 
-## Mais sobre mim
+<br clear="both">
 
+<h6 align="center">Um desenvolvedor em ascensão atualmente cursando ADS pela Uninter e apaixonado por criar aplicações acessíveis e funcionais.</h6>
 
-```js
-class Developer {
-  constructor() {
-    this.props = {
-      name: "",
-      acknowledgements: "",
-      skills: {
-        languages: [],
-        frameworks: [],
-        primarySkillset: [],
-      },
-    };
-    this.set();
-  }
+###
 
-  getProps() {
-    return { props: this.props };
-  }
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
-  set() {
-    this.props.name = "Marco Damasceno";
-    this.props.acknowledgements = "Developer Web";
-    this.props.skills.languages = ["C#", "Javascript"];
-    this.props.skills.frameworks = ["Angular", "React", "Next", "Vue"];
-    this.props.skills.primarySkillset = [
-      "Comunicação",
-      "Resolução de problemas",
-      "Adaptabilidade",
-      "Proatividade",
-      "Foco",
-      "Empatia",
-      "Criatividade",
-    ];
-  }
-}
+###
 
-class Person extends Developer {
-  constructor() {
-    super();
-    return this.getProps().props;
-  }
-}
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
 
-const marco = new Person();
-console.log(marco);
+###
 
-```
+<br clear="both">
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" />
+<h4 align="center">possuo familiaridade nas seguintes tecnologias</h4>
 
+###
 
-## Linguagens e ferramentas
+<div align="center">
+  <img height="40" src="https://skillicons.dev/icons?i=mysql,angular,typescript,tailwindcss,nodejs,python,cs"  />
+</div>
 
-<img src="https://skillicons.dev/icons?i=git,js,mysql,mongodb,angular,react,vue,tailwind,next,sass,vscode" />
+###
 
-## Status
+<h4 align="center">mídias sociais</h4>
 
-<a href="https://github.com/marcoDmc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoDmc&show_icons=true&theme=dracula&line_height=27" alt="marco damasceno github stats"/>
-</a>
+###
 
-[linkedin]: https://www.linkedin.com/in/marcodmc/
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcodmc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@marcodamasceno" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/damascenodev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-<br>
+###
 
-## Rede sociais
-👔 [LinkedIn][linkedin]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcodmc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcodmc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## Contato
+<h4 align="center">Contato</h4>
 
-
-[marco damaceno](mailto:marcodmc0101@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e4n64kj2aznh2qwitvfei7zco&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <a align="center" target="_blank" href="mailto:marcodamasceno0101@outlook.com?subject=[GitHub]%20Source%20Han%20Sans">email</a>
+</div>
 
 
 ![Snake animation](https://github.com/marcoDmc/marcoDmc/blob/output/github-contribution-grid-snake.svg)
