@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="center">Um desenvolvedor em ascensão atualmente cursando ADS pela Uninter e apaixonado por criar aplicações acessíveis e funcionais.</h4>
+<h4 align="center">Um desenvolvedor em ascensão apaixonado por criar aplicações acessíveis e funcionais.</h4>
 <div align="center">
   <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
