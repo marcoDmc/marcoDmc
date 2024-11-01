@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img height="40" src="https://skillicons.dev/icons?i=mysql,angular,typescript,tailwindcss,nodejs,python,cs"  />
+  <img height="40" src="https://skillicons.dev/icons?i=postgres,python,golang,docker"  />
 </div>
 
 ###
