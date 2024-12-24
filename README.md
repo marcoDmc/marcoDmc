@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 Criando experiências web cativantes com código.<br>👯 Aberto a projetos web colaborativos.<br>🤝 Buscando assistência para melhorar habilidades na web.<br>🌱 Aprendendo e evoluindo em desenvolvimento web.<br>💬 Pergunte-me qualquer coisa sobre tecnologia web.<br>⚡ Curiosidade: Web Wizard durante o dia, aficionado à noite por jogos e futebol.
+🔧 Aprimorando sistemas com automação e backend robusto.
+
+🤝 Aberto a projetos colaborativos que desafiem e inspirem.
+
+🌱 Sempre aprendendo e evoluindo em tecnologias de backend e automação.
+
+💬 Pergunte-me qualquer coisa sobre APIs, bancos de dados ou integrações.
+
+⚡ Curiosidade: Engenheiro de soluções durante o dia, entusiasta de jogos e futebol à noite.
 
 
 ## 🌐 Socials:
